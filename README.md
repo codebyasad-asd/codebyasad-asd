@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on Face Detection and Age Estimation projects using Python and Machine Learning.<br><br> I’m looking to collaborate on AI/ML, Data Science, and Web Development projects.<br><br> I’m looking for help with improving my problem-solving skills, research paper writing, and real-world project building.<br><br> I’m currently learning Data Science, Cybersecurity, and Full Stack Development as a CSE student.<br><br>Ask me about Python, Machine Learning basics, Computer Networks, and Project Development.<br><br>Fun fact: I enjoy turning ideas into real projects and believe consistency is the real key to success.
 
 
